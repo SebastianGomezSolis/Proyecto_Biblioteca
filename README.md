@@ -1,6 +1,6 @@
 # 📚 Proyecto Biblioteca
 
-**Proyecto Biblioteca** es un sistema modular en **C++** que permite gestionar los materiales, usuarios y préstamos de una biblioteca.  
+Este es un sistema modular en **C++** que permite gestionar los materiales, usuarios y préstamos de una biblioteca.  
 Su diseño se basa en **Programación Orientada a Objetos** y estructuras de datos personalizadas, ofreciendo un enfoque didáctico y escalable.
 
 ---
